@@ -28,7 +28,7 @@ A simple website where students can:
 ---
 
 ## 👥 Target Users
-- New and current students of QAU, COMSATS, NUST, and other universities in Islamabad/Rawalpindi.
+- New and current students of universities.
 - Budget range: Rs. 8,000 – 20,000 per month.
 
 ---
