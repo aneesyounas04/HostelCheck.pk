@@ -2,7 +2,7 @@
 
 ### Affordable Hostels for Students
 
-**Tagline:** Find affordable, verified hostels near your university in 5 minutes.
+Find affordable, verified hostels near your university in 5 minutes.
 
 ---
 
